@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.shinnzou2003_cpu.twa",
-        "sha256_cert_fingerprints": ["91:ED:32:22:56:6A:1F:D7:DF:D2:DD:21:3A:4A:4B:08:B0:66:6A:B5:DC:73:D9:5D:18:9E:DF:9C:43:AA:92:BA"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.shinnzou2003_cpu.twa",
+    "sha256_cert_fingerprints": [
+      "A0:81:92:F9:39:2D:A6:7D:A4:D7:B6:ED:A1:69:4C:B2:CD:5E:AB:EF:12:E1:62:93:C9:83:E7:50:26:47:55:46",
+      "91:ED:32:22:56:6A:1F:D7:DF:D2:DD:21:3A:4A:4B:08:B0:66:6A:B5:DC:73:D9:5D:18:9E:DF:9C:43:AA:92:BA"
+    ]
+  }
+}]
