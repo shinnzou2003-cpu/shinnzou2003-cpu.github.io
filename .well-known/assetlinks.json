@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.shinnzou2003_cpu.twa",
+        "sha256_cert_fingerprints": ["91:ED:32:22:56:6A:1F:D7:DF:D2:DD:21:3A:4A:4B:08:B0:66:6A:B5:DC:73:D9:5D:18:9E:DF:9C:43:AA:92:BA"]
+      }
+    }]
